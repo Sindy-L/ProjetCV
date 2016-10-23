@@ -3,7 +3,7 @@ body{
     width: 100%;
     background-color: #F3F3F3;
 }
-li{
+div.Competences li{
     list-style-type: none!important;
 }
 h2{
