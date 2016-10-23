@@ -1,0 +1,50 @@
+body{
+    font-family: 'Rokkitt', sans-serif;
+    width: 100%;
+    background-color: #F3F3F3;
+}
+li{
+    list-style-type: none!important;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #9E0E40;
+}
+h5{
+    font-style: italic;
+    font-weight: bold;
+    color: #C72C48;
+}
+hr {
+    height: 3px;
+    margin-top: 0%;
+    color: #9E0E40;
+    background-color: #9E0E40;
+}
+a{
+    color: #0f0f0f;
+}
+a:hover{
+    color: #C72C48;
+}
+.formation, .expPro, .loisirs{
+    color: #C72C48;
+}
+.photo{
+    width: 130px;
+    border-radius: 15%;
+    margin-bottom: 1%;
+}
+div.container-fluid div.row div.InfoGenerale{
+    text-align: center;
+}
+div.row{
+    margin-bottom: 1%
+}
+@media (max-width: 768px) {
+    .body {
+        text-align: center;
+    }
+}
