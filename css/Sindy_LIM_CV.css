@@ -3,8 +3,9 @@ body{
     width: 100%;
     background-color: #F3F3F3;
 }
-div.Competences li{
+li{
     list-style-type: none!important;
+    text-indent: 15px;
 }
 h2{
     font-family: 'Raleway', sans-serif;
